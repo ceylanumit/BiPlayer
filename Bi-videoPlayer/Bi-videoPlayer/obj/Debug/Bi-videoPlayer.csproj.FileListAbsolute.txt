@@ -1,0 +1,15 @@
+D:\github\Bi-videoPlayer\Bi-videoPlayer\bin\Debug\Bi-videoPlayer.exe.config
+D:\github\Bi-videoPlayer\Bi-videoPlayer\bin\Debug\Bi-videoPlayer.exe
+D:\github\Bi-videoPlayer\Bi-videoPlayer\bin\Debug\Bi-videoPlayer.pdb
+D:\github\Bi-videoPlayer\Bi-videoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\github\Bi-videoPlayer\Bi-videoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\Bi-videoPlayer.csproj.AssemblyReference.cache
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\Bi-videoPlayer.csproj.ResolveComReference.cache
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\Bi_videoPlayer.Form1.resources
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\Bi_videoPlayer.Properties.Resources.resources
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\Bi-videoPlayer.csproj.GenerateResource.cache
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\Bi-videoPlayer.csproj.CoreCompileInputs.cache
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\Bi-videoPlayer.exe
+D:\github\Bi-videoPlayer\Bi-videoPlayer\obj\Debug\Bi-videoPlayer.pdb
